@@ -17,8 +17,7 @@ const Banner = () => {
       <h1 className="mb-5 text-5xl font-bold">Discover an exceptional cooking
 class tailored for you!</h1>
       <p className="mb-5">
-        Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding
-problems to become an exceptionally well world-class Programmer.
+        Whether you are a beginner or a seasoned chef, our expert-led sessions offer personalized guidance and inspiration. Join us for an enriching culinary experience that is sure to ignite your passion for cooking.
       </p>
       <button className="btn btn-success">Explore Now</button>
     </div>
