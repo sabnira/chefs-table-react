@@ -2,7 +2,7 @@
   {
     "recipe_id": 1,
     "recipe_name": "Spicy Thai Basil Chicken",
-    "recipe_image": "https://www.recipetineats.com/wp-content/uploads/2019/09/Thai-Basil-Chicken_9.jpg",
+    "recipe_image": "https://healthyfitnessmeals.com/wp-content/uploads/2020/09/THAI-BASIL-CHICKEN-6.jpg",
     "short_description": "A flavorful Thai stir-fry with chicken, chilies, and fresh basil.",
     "ingredients": [
       "550 g chicken",
@@ -17,13 +17,15 @@
   {
     "recipe_id": 2,
     "recipe_name": "Creamy Mushroom Pasta",
-    "recipe_image": "https://www.recipetineats.com/wp-content/uploads/2019/09/Creamy-Mushroom-Pasta_0.jpg",
+    "recipe_image": "https://saltedmint.com/wp-content/uploads/2023/04/Lighter-Healthier-Creamy-Mushroom-Pasta.jpg",
     "short_description": "Pasta tossed in a creamy garlic mushroom sauce.",
     "ingredients": [
       "250 g pasta",
       "200 g mushrooms",
       "100 ml heavy cream",
       "2 cloves garlic",
+      "1 tomato, diced",
+      "1/2 onion, chopped",
       "1 tbsp olive oil"
     ],
     "preparing_time": 25,
@@ -32,13 +34,15 @@
   {
     "recipe_id": 3,
     "recipe_name": "Grilled Lemon Herb Salmon",
-    "recipe_image": "https://www.cookingclassy.com/wp-content/uploads/2015/07/lemon-garlic-herb-grilled-salmon7-srgb..jpg",
+    "recipe_image": "https://www.thecookierookie.com/wp-content/uploads/2023/05/grilled-salmon-recipe-2.jpg",
     "short_description": "Salmon fillets grilled with lemon and fresh herbs.",
     "ingredients": [
       "400 g salmon",
       "2 tbsp lemon juice",
       "1 tbsp olive oil",
       "1 tsp garlic powder",
+      "1 tomato, diced",
+      "1/2 onion, chopped",
       "Salt and pepper to taste"
     ],
     "preparing_time": 20,
@@ -52,7 +56,6 @@
     "ingredients": [
       "100 g broccoli",
       "100 g carrots",
-      "100 g bell peppers",
       "2 tbsp soy sauce",
       "1 tsp sesame oil"
     ],
@@ -62,13 +65,14 @@
   {
     "recipe_id": 5,
     "recipe_name": "Beef Tacos",
-    "recipe_image": "https://feelgoodfoodie.net/wp-content/uploads/2020/04/Ground-Beef-Tacos-08.jpg",
+    "recipe_image": "https://www.saltandlavender.com/wp-content/uploads/2020/11/ground-beef-tacos-recipe-1.jpg",
     "short_description": "Crispy taco shells filled with seasoned ground beef and toppings.",
     "ingredients": [
       "300 g ground beef",
       "6 taco shells",
       "1 tomato, diced",
       "1/2 onion, chopped",
+      "Salt and pepper to taste",
       "50 g shredded cheese"
     ],
     "preparing_time": 20,
@@ -77,7 +81,7 @@
   {
     "recipe_id": 6,
     "recipe_name": "Avocado Toast",
-    "recipe_image": "https://cookieandkate.com/images/2020/03/avocado-toast-recipe-1.jpg",
+    "recipe_image": "https://www.rootsandradishes.com/wp-content/uploads/2017/08/avocado-toast-with-everything-bagel-seasoning-feat.jpg",
     "short_description": "Toasted bread topped with mashed avocado and seasonings.",
     "ingredients": [
       "2 slices whole grain bread",
