@@ -55,8 +55,8 @@ const Recipes = ({addRecipeToQueue}) => {
 
                    
 
-                    <div onClick={()=>addRecipeToQueue(recipe)} className="card-actions ">
-                    <button className="btn btn-success rounded-full px-8  text-gray-800 mt-6 font-medium">Want To Cook</button>
+                    <div className="card-actions ">
+                    <button onClick={()=>addRecipeToQueue(recipe)} className="btn btn-success rounded-full px-8  text-gray-800 mt-6 font-medium">Want To Cook</button>
                     </div>
                 </div>
             </div>

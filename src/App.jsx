@@ -21,7 +21,7 @@ const App = () => {
       alert('Recipe already exists in the queue.')
     }
   }
-  console.log(recipeQueue);
+  
 
   return (
     <div className='w-10/12 mx-auto'>
@@ -32,7 +32,8 @@ const App = () => {
       <section className='flex flex-col md:flex-row gap-6'>
         <Recipes addRecipeToQueue=
         {addRecipeToQueue}></Recipes> 
-        <Sidebar></Sidebar>
+
+        <Sidebar recipeQueue={recipeQueue}></Sidebar>
       </section>
 
     </div>
